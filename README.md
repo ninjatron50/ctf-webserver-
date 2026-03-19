@@ -5,7 +5,7 @@ A CTF challenge webserver virtual machine.
 ## Download VM
 
 Download the OVA file from Google Drive:
-[Download CTF Webserver OVA]( https://drive.google.com/your-link-here](https://drive.google.com/file/d/13zbcNHHeHn5Lx8eey8QoAvFkJmFGaRjS/view?usp=sharing )
+[Download CTF Webserver OVA] (https://drive.google.com/file/d/13zbcNHHeHn5Lx8eey8QoAvFkJmFGaRjS/view?usp=sharing)
 
 ## How to Import
 
